@@ -1,0 +1,7 @@
+cron:
+- description: "Inserts data every 2 minutes"
+  url: /
+  schedule: every day 18:00
+  #schedule: every 2 mins
+  timezone: Asia/Kolkata
+  target: demo-test

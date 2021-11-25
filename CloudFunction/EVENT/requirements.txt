@@ -1,0 +1,5 @@
+google-api-python-client
+google-cloud-storage==1.13.2
+google-cloud-error-reporting==0.34.0
+
+

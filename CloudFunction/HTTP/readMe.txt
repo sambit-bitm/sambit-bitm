@@ -1,0 +1,1 @@
+gcloud functions deploy insert_func --runtime python37 --trigger-http --timeout=540s

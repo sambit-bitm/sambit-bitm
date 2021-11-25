@@ -1,0 +1,1 @@
+gcloud functions deploy triggerFunction --runtime python37 --trigger-http --timeout=300s

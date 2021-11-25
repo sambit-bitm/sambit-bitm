@@ -1,0 +1,10 @@
+google-api-python-client
+Flask==1.0.2
+pandas==0.24.1
+PyMySQL==0.9.3
+SQLAlchemy==1.2.17
+requests==2.21.0
+Flask-Cors==3.0.7
+flask-restful
+
+
