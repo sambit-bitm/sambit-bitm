@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "test-project-training-1234",
-  "private_key_id": "8243b7a6492b63fde1687788f1e316494fb56cb9",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCT7+Ku1/MsY19r\n5R7pEPuf8E0yqOOvUJiJaF8Vd9JfjXXT9u48LTEIWpMB99uMiTIouWg3idEiKixl\nmgbag4dvbDysr8P0f/GQrePGbk3bUINxECCyA8fbYU2l05JUQ+9QJBN6ETsvUfdn\n5dxW/utq8sT9qXTcz45s1Z3xDKs//OjdOY0UP954UYQRd3k5Qs2gYIX4tzj0J0l6\nmFRTmaqFUQY5NpxrQgbUfNYZ28ur5StT32H/gIhl+6r1COZ2tOpq+WZhN2pFoiG2\nlxpGmu/8YOuJyqF1nfOI5KRan1GttygIJwAzYp2YpB7X4nkj/te98L2Ht5xO3Qm2\nEpzlRJ3zAgMBAAECggEAC6x0y05AIqMOzxFL8KFF8deBB/vax6VI/CLPyf5kC+U6\nRIkqQHZidaHMEu4vlXXoDt2eky9dYOBKE5RlcQ3K/KhiW1AdWuhTtBJ8tFZU73b5\ngE0A/3sb5LxXZ7v7wol/02edX9cHQBMsPjcdvYGtKwnQMKIUFi6MsxriNTjGNKzO\nK+3NC3DdXpoSh205VqeK8k94xuOKgjew6+yzOH4gVVBElB+zhYnY3vOjD3YDvTVs\nuJvKDldTdqDH0Z/++XFq1bLAkPzI0wbA0mJPIdh9Upnz+Bs8Qz2djd5vWoOZ8LUZ\n3ILkmOnT9Mo/m4mKn7Nzx3hRarAlmsQHDUSZGB8MMQKBgQDH4p9pMZSDWUlbK7Fi\nZu7HT43lOygzyJuxYCByoL/B154Slvio8jg/cRlw8Z1sTRPZVmrZs5flV8T0icmZ\nTSyI/rUPwaQiSu1x9QV5f4evpWO4+GhqlyijTc5MwOPi7OwmKdp0jF0Ek2ftQjiI\nnU5qUj75RlKS4JL2ixip1KtMUQKBgQC9d9f+jIP2MCmXiOU2e/P1/L9eBMBtp/vO\n+ID7mnqgQov5YaDAAOc0xeWib5jgj0v9agNDdRmtrQ3G6GXPIgndPyQ5IguhSlnO\n6TBUtcSoj9pxjm2bNfvlG+0e5f4KOU3DfXwvlpDtg8CXkcuXznBMaBnGrkV2+7XT\nPv4W973pAwKBgDvfr16EQndB1I5hvSW7rYS4WMm0eathSPnN0IplimsXGjt5S4zX\n2W9vgm5pgX1CbVKp5yHFARfqvY1+hIvOKSv0F+pbV74J8awz9+rX/53mjcOHbUeY\ndczM7qHhGaIM1APuf4hvzyEiwnu4XVTWwflpH4HtxahHat489itRD+qxAoGBAK98\nug1l3q/+yfc17394bWzwbdtKMWUfiwaXevgPi/a1zGnuN/K+o2doyJmcHZAYiXyt\nXVp0spT/TVxnUiz4zQQkgIt+ciEw+V/A8mfzd7PckapODk0NQkNhi03sHlEf5Fvl\n9Ukqfw/O0WpRuq3fonnSjdVNAsACwdVoafWh/z87AoGAXS+75SDC3DI0J7tuSSv0\nyRX/bQibSKhauoXVw1Vz4d0aS4pCZf2738qA5fXJJ1Q4qCxx2kXEWptbcam5R6Lc\nD2FdS/1b1bbPiVIN2xTbhO8WOnGlwoXAxLhVXtJt/bwbnCriot7P3ynr7cdUJDhC\n0JNf+Pwpzubb6JDIZ6/6af8=\n-----END PRIVATE KEY-----\n",
-  "client_email": "gcs-admin-account@test-project-training-1234.iam.gserviceaccount.com",
-  "client_id": "116291517109233114043",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-admin-account%40test-project-training-1234.iam.gserviceaccount.com"
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 }
